@@ -1,0 +1,71 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the PACKAGE package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2015-07-05 12:43+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"Language: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n > 1);\n"
+
+#: language/middleware/middleware.py:26
+msgid "Location Saved successfully"
+msgstr "Situation enregistré avec succès"
+
+#: language/middleware/middleware.py:28 language/middleware/middleware.py:30
+msgid "Error occured while saving location"
+msgstr "Une erreur est survenue lors de l'enregistrement emplacement"
+
+#: templates/about.html:46 templates/about.html.py:84
+msgid "About"
+msgstr "sur"
+
+#: templates/about.html:50
+msgid "Language"
+msgstr "langue"
+
+#: templates/about.html:53
+msgid "English"
+msgstr "anglais"
+
+#: templates/about.html:56
+msgid "French"
+msgstr "français"
+
+#: templates/about.html:59
+msgid "Hindi"
+msgstr "hindi"
+
+#: templates/about.html:85
+msgid "Company"
+msgstr "entreprise"
+
+#: templates/about.html:96
+msgid "About Modern Business"
+msgstr "A propos de Business moderne"
+
+#: templates/about.html:99 templates/about.html.py:104
+#: templates/about.html:109
+msgid ""
+"\n"
+"                This is a multi language website with sample data.This is a "
+"multi language website with sample data.This is a multi language website "
+"with sample data.This is a multi language website with sample data.This is a "
+"multi language website with sample data.\n"
+"                "
+msgstr ""
+"\n"
+"\t\tCeci est un site multi-langue avec données.Cette de l'échantillon est "
+"unsite multi-langue avec données.Cette de l'échantillon est un site multi-"
+"langueavec données.Cette échantillon est un site multi-langue avec données."
+"Cette d'échantillons est unsite multi-langue des échantillons de données. "
